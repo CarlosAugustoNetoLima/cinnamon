@@ -1,0 +1,11 @@
+Assets/
+_to_delete/
+.claude/
+scripts/serve.py
+PROMPT-CINNAMON-STUDIO-SITE.md
+CLAUDE.md
+
+# copy deck e notas internas — nunca no deploy publico
+content/
+scripts/
+__pycache__/

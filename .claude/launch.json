@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cinnamon",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "scripts/serve.py",
+        "4173"
+      ],
+      "port": 4173
+    },
+    {
+      "name": "cinnamon-dev",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "scripts/serve.py",
+        "4175"
+      ],
+      "port": 4175
+    }
+  ]
+}

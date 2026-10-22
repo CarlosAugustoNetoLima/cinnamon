@@ -1,0 +1,485 @@
+{
+ "banho-01-1920.webp": {
+  "w": 1254,
+  "h": 1254,
+  "ratio": 1.0,
+  "avg": "#695645",
+  "kb": 151
+ },
+ "banho-01-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#695645",
+  "kb": 56
+ },
+ "banho-02-1920.webp": {
+  "w": 1254,
+  "h": 1254,
+  "ratio": 1.0,
+  "avg": "#67523e",
+  "kb": 95
+ },
+ "banho-02-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#67523e",
+  "kb": 51
+ },
+ "deperto-bancada-1600.webp": {
+  "w": 998,
+  "h": 447,
+  "ratio": 2.2327,
+  "avg": "#584e43",
+  "kb": 21
+ },
+ "deperto-bancada-960.webp": {
+  "w": 960,
+  "h": 430,
+  "ratio": 2.2326,
+  "avg": "#584e43",
+  "kb": 16
+ },
+ "deperto-box-1600.webp": {
+  "w": 870,
+  "h": 1224,
+  "ratio": 0.7108,
+  "avg": "#5f5b54",
+  "kb": 22
+ },
+ "deperto-box-960.webp": {
+  "w": 870,
+  "h": 1224,
+  "ratio": 0.7108,
+  "avg": "#5f5b54",
+  "kb": 19
+ },
+ "deperto-cabeceira-1600.webp": {
+  "w": 1382,
+  "h": 691,
+  "ratio": 2.0,
+  "avg": "#916e52",
+  "kb": 66
+ },
+ "deperto-cabeceira-960.webp": {
+  "w": 960,
+  "h": 480,
+  "ratio": 2.0,
+  "avg": "#916e52",
+  "kb": 33
+ },
+ "deperto-espelho-longe-1600.webp": {
+  "w": 1254,
+  "h": 838,
+  "ratio": 1.4964,
+  "avg": "#624f3e",
+  "kb": 59
+ },
+ "deperto-espelho-longe-960.webp": {
+  "w": 960,
+  "h": 642,
+  "ratio": 1.4953,
+  "avg": "#624f3e",
+  "kb": 31
+ },
+ "deperto-espelho-perto-1600.webp": {
+  "w": 714,
+  "h": 477,
+  "ratio": 1.4969,
+  "avg": "#685745",
+  "kb": 20
+ },
+ "deperto-espelho-perto-960.webp": {
+  "w": 714,
+  "h": 477,
+  "ratio": 1.4969,
+  "avg": "#685745",
+  "kb": 17
+ },
+ "deperto-mesa-1600.webp": {
+  "w": 922,
+  "h": 595,
+  "ratio": 1.5496,
+  "avg": "#6c5548",
+  "kb": 27
+ },
+ "deperto-mesa-960.webp": {
+  "w": 922,
+  "h": 595,
+  "ratio": 1.5496,
+  "avg": "#6c5548",
+  "kb": 22
+ },
+ "deperto-nicho-1600.webp": {
+  "w": 602,
+  "h": 276,
+  "ratio": 2.1812,
+  "avg": "#715c44",
+  "kb": 12
+ },
+ "deperto-nicho-960.webp": {
+  "w": 602,
+  "h": 276,
+  "ratio": 2.1812,
+  "avg": "#715c44",
+  "kb": 9
+ },
+ "deperto-sacada-1600.webp": {
+  "w": 729,
+  "h": 595,
+  "ratio": 1.2252,
+  "avg": "#8d8f84",
+  "kb": 27
+ },
+ "deperto-sacada-960.webp": {
+  "w": 729,
+  "h": 595,
+  "ratio": 1.2252,
+  "avg": "#8c8f84",
+  "kb": 23
+ },
+ "ext-acesso-1920.webp": {
+  "w": 1600,
+  "h": 895,
+  "ratio": 1.7877,
+  "avg": "#554940",
+  "kb": 149
+ },
+ "ext-acesso-960.webp": {
+  "w": 960,
+  "h": 537,
+  "ratio": 1.7877,
+  "avg": "#554940",
+  "kb": 49
+ },
+ "ext-baixo-1920.webp": {
+  "w": 1600,
+  "h": 1600,
+  "ratio": 1.0,
+  "avg": "#5b4f4c",
+  "kb": 219
+ },
+ "ext-baixo-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#5b4f4c",
+  "kb": 65
+ },
+ "ext-esquina-1920.webp": {
+  "w": 1600,
+  "h": 1195,
+  "ratio": 1.3389,
+  "avg": "#332f32",
+  "kb": 179
+ },
+ "ext-esquina-960.webp": {
+  "w": 960,
+  "h": 717,
+  "ratio": 1.3389,
+  "avg": "#332f32",
+  "kb": 61
+ },
+ "ext-frontal-1920.webp": {
+  "w": 1600,
+  "h": 1600,
+  "ratio": 1.0,
+  "avg": "#645855",
+  "kb": 187
+ },
+ "ext-frontal-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#645855",
+  "kb": 71
+ },
+ "ext-noite-1920.webp": {
+  "w": 1600,
+  "h": 1600,
+  "ratio": 1.0,
+  "avg": "#423533",
+  "kb": 301
+ },
+ "ext-noite-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#423533",
+  "kb": 105
+ },
+ "ext-orla-1920.webp": {
+  "w": 1600,
+  "h": 1600,
+  "ratio": 1.0,
+  "avg": "#57545a",
+  "kb": 164
+ },
+ "ext-orla-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#57545a",
+  "kb": 60
+ },
+ "ext-poente-1920.webp": {
+  "w": 1600,
+  "h": 1600,
+  "ratio": 1.0,
+  "avg": "#503e34",
+  "kb": 225
+ },
+ "ext-poente-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#503e33",
+  "kb": 84
+ },
+ "ext-terreo-1920.webp": {
+  "w": 1600,
+  "h": 893,
+  "ratio": 1.7917,
+  "avg": "#473e3e",
+  "kb": 132
+ },
+ "ext-terreo-960.webp": {
+  "w": 960,
+  "h": 536,
+  "ratio": 1.791,
+  "avg": "#473e3e",
+  "kb": 47
+ },
+ "og-cinnamon.jpg": {
+  "w": 1200,
+  "h": 630,
+  "ratio": 1.9048,
+  "avg": "#312d2a",
+  "kb": 84
+ },
+ "pano-bem-estar-2048.avif": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#86593b",
+  "kb": 451
+ },
+ "pano-bem-estar-2048.jpg": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#85593b",
+  "kb": 744
+ },
+ "pano-bem-estar-thumb.webp": {
+  "w": 240,
+  "h": 160,
+  "ratio": 1.5,
+  "avg": "#805637",
+  "kb": 9
+ },
+ "pano-corporativo-2048.avif": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#895a3a",
+  "kb": 322
+ },
+ "pano-corporativo-2048.jpg": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#895a3a",
+  "kb": 574
+ },
+ "pano-corporativo-thumb.webp": {
+  "w": 240,
+  "h": 160,
+  "ratio": 1.5,
+  "avg": "#916a4d",
+  "kb": 6
+ },
+ "pano-gourmet-2048.avif": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#a16f4c",
+  "kb": 445
+ },
+ "pano-gourmet-2048.jpg": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#a1704b",
+  "kb": 758
+ },
+ "pano-gourmet-thumb.webp": {
+  "w": 240,
+  "h": 160,
+  "ratio": 1.5,
+  "avg": "#90633e",
+  "kb": 8
+ },
+ "pano-jardim-sensorial-2048.avif": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#92775b",
+  "kb": 409
+ },
+ "pano-jardim-sensorial-2048.jpg": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#92775b",
+  "kb": 664
+ },
+ "pano-jardim-sensorial-thumb.webp": {
+  "w": 240,
+  "h": 160,
+  "ratio": 1.5,
+  "avg": "#837052",
+  "kb": 11
+ },
+ "pano-lavanderia-2048.avif": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#9d7054",
+  "kb": 376
+ },
+ "pano-lavanderia-2048.jpg": {
+  "w": 2048,
+  "h": 1024,
+  "ratio": 2.0,
+  "avg": "#9d7154",
+  "kb": 646
+ },
+ "pano-lavanderia-thumb.webp": {
+  "w": 240,
+  "h": 160,
+  "ratio": 1.5,
+  "avg": "#9e775b",
+  "kb": 7
+ },
+ "planta-1300.webp": {
+  "w": 1300,
+  "h": 643,
+  "ratio": 2.0218,
+  "avg": "#656260",
+  "kb": 59
+ },
+ "planta-2600.webp": {
+  "w": 2600,
+  "h": 1286,
+  "ratio": 2.0218,
+  "avg": "#64615f",
+  "kb": 360
+ },
+ "planta-alt-1100.webp": {
+  "w": 1100,
+  "h": 544,
+  "ratio": 2.0221,
+  "avg": "#656260",
+  "kb": 26
+ },
+ "planta-alt-2200.webp": {
+  "w": 2200,
+  "h": 1088,
+  "ratio": 2.0221,
+  "avg": "#64615f",
+  "kb": 99
+ },
+ "studio-01-1920.webp": {
+  "w": 1920,
+  "h": 1240,
+  "ratio": 1.5484,
+  "avg": "#7e6c5e",
+  "kb": 277
+ },
+ "studio-01-960.webp": {
+  "w": 960,
+  "h": 620,
+  "ratio": 1.5484,
+  "avg": "#7e6c5d",
+  "kb": 62
+ },
+ "studio-02-1920.webp": {
+  "w": 1920,
+  "h": 1240,
+  "ratio": 1.5484,
+  "avg": "#6e6962",
+  "kb": 232
+ },
+ "studio-02-960.webp": {
+  "w": 960,
+  "h": 620,
+  "ratio": 1.5484,
+  "avg": "#6e6962",
+  "kb": 61
+ },
+ "studio-03-1920.webp": {
+  "w": 1920,
+  "h": 1080,
+  "ratio": 1.7778,
+  "avg": "#806f5e",
+  "kb": 130
+ },
+ "studio-03-2560.webp": {
+  "w": 2560,
+  "h": 1440,
+  "ratio": 1.7778,
+  "avg": "#806f5e",
+  "kb": 194
+ },
+ "studio-03-960.webp": {
+  "w": 960,
+  "h": 540,
+  "ratio": 1.7778,
+  "avg": "#806f5e",
+  "kb": 38
+ },
+ "studio-04-1920.webp": {
+  "w": 1920,
+  "h": 1240,
+  "ratio": 1.5484,
+  "avg": "#857263",
+  "kb": 194
+ },
+ "studio-04-960.webp": {
+  "w": 960,
+  "h": 620,
+  "ratio": 1.5484,
+  "avg": "#857263",
+  "kb": 60
+ },
+ "studio-05-1920.webp": {
+  "w": 1920,
+  "h": 1240,
+  "ratio": 1.5484,
+  "avg": "#8b7d6e",
+  "kb": 124
+ },
+ "studio-05-960.webp": {
+  "w": 960,
+  "h": 620,
+  "ratio": 1.5484,
+  "avg": "#8b7d6e",
+  "kb": 38
+ },
+ "studio-06-1920.webp": {
+  "w": 1536,
+  "h": 1536,
+  "ratio": 1.0,
+  "avg": "#80786f",
+  "kb": 79
+ },
+ "studio-06-960.webp": {
+  "w": 960,
+  "h": 960,
+  "ratio": 1.0,
+  "avg": "#80786f",
+  "kb": 36
+ }
+}
